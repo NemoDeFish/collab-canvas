@@ -9,7 +9,6 @@ import java.util.concurrent.ConcurrentHashMap;
  * RMI remote interface shared and implemented by client and server
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 @SuppressWarnings("exports")
 public interface IRemoteWhiteBoard extends Remote {

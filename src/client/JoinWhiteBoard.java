@@ -13,7 +13,6 @@ import remote.*;
  * This is the main driver for the white board client.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class JoinWhiteBoard {
 	private static String serverAddress;

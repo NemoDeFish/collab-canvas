@@ -14,7 +14,6 @@ import remote.Action;
  * This is the class for the white board server GUI.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class ServerGUI extends JFrame {
 	private static final long serialVersionUID = 1L;

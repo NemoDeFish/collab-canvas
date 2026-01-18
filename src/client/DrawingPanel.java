@@ -16,7 +16,6 @@ import remote.FullShape;
  * This is the class for the drawing panel on the client.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class DrawingPanel extends JPanel {
 	private static final long serialVersionUID = 1L;

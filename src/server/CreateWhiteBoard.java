@@ -14,7 +14,6 @@ import javax.swing.*;
  * This is the main driver for the white board server.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class CreateWhiteBoard {
 	private static String serverAddress;

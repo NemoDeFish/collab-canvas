@@ -13,7 +13,6 @@ import remote.Action;
  * This is the class for the white board client GUI.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class ClientGUI extends JFrame {
 	private static final long serialVersionUID = 1L;

@@ -18,7 +18,6 @@ import remote.Action;
  * and calling other RMI methods
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class RemoteWhiteBoard extends UnicastRemoteObject implements IRemoteWhiteBoard {
     private static final long serialVersionUID = 1L;

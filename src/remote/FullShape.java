@@ -10,7 +10,6 @@ import java.awt.Shape;
  * Contains all information required to render shapes and text
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 @SuppressWarnings("exports")
 public class FullShape {
