@@ -111,3 +111,7 @@ java JoinWhiteBoard <server-address> <server-port> <username>
 - **Google Gson** for object serialization and deserialization
 - **Swing** (`javax.swing`)
 - **Java AWT / Java2D** (`java.awt`) for canvas rendering and interaction
+
+## Application Preview
+
+![Application Preview](figures/collab_canvas.png)
